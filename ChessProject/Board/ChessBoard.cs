@@ -6,7 +6,7 @@ namespace ChessProject.Board
         public int Columns { get; set; }
         public Piece[,] Pieces;
 
-        public Board(int lines, int columns)
+        public ChessBoard(int lines, int columns)
         {
             Lines = lines;
             Columns = columns;

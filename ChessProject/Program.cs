@@ -7,8 +7,7 @@ namespace ChessProject
         static void Main(string[] args)
         {
             ChessBoard board = new ChessBoard(8,8);
-
-            System.Console.WriteLine("Posição: " + P);
+            
             System.Console.ReadLine();
         }
     }
