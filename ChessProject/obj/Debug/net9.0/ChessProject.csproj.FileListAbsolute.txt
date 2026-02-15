@@ -1,0 +1,14 @@
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.AssemblyInfoInputs.cache
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.AssemblyInfo.cs
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\bin\Debug\net9.0\ChessProject.exe
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\bin\Debug\net9.0\ChessProject.deps.json
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\bin\Debug\net9.0\ChessProject.runtimeconfig.json
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\bin\Debug\net9.0\ChessProject.dll
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\bin\Debug\net9.0\ChessProject.pdb
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.dll
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\refint\ChessProject.dll
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.pdb
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.genruntimeconfig.cache
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ref\ChessProject.dll
