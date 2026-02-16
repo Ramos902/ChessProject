@@ -8,6 +8,7 @@ namespace ChessProject
         {
             ChessBoard board = new ChessBoard(8,8);
             
+            Screen.PrintBoard(board);
             System.Console.ReadLine();
         }
     }

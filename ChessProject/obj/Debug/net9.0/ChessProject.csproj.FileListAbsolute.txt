@@ -12,3 +12,4 @@ G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.
 G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.pdb
 G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.genruntimeconfig.cache
 G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ref\ChessProject.dll
+G:\Meu Drive\Documentos Ramos\Projects\ChessProject\ChessProject\obj\Debug\net9.0\ChessProject.sourcelink.json
