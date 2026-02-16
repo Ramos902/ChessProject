@@ -17,5 +17,11 @@ namespace ChessProject.Board
         {
             return Pieces[line, column];
         }
+
+        public void PieceAdd(Piece piece, Position position)
+        {
+            Pieces[position.Line, position.Column] = piece;
+            piece.Position = position;
+        }
     }
 }
